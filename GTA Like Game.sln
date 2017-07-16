@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTA Like Game.CSharp.Plugins", "GTA Like Game.CSharp.Plugins.csproj", "{80471BAB-7794-41D8-8C80-009D2AF3538F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTA Like Game.CSharp", "GTA Like Game.CSharp.csproj", "{BE27618D-DCA9-6816-D420-A47FCCCF3C7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTA Like Game.CSharp.Editor.Plugins", "GTA Like Game.CSharp.Editor.Plugins.csproj", "{293771B6-7C50-E53C-6411-2F8ECC8F568E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80471BAB-7794-41D8-8C80-009D2AF3538F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80471BAB-7794-41D8-8C80-009D2AF3538F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80471BAB-7794-41D8-8C80-009D2AF3538F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80471BAB-7794-41D8-8C80-009D2AF3538F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE27618D-DCA9-6816-D420-A47FCCCF3C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE27618D-DCA9-6816-D420-A47FCCCF3C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE27618D-DCA9-6816-D420-A47FCCCF3C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE27618D-DCA9-6816-D420-A47FCCCF3C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{293771B6-7C50-E53C-6411-2F8ECC8F568E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{293771B6-7C50-E53C-6411-2F8ECC8F568E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{293771B6-7C50-E53C-6411-2F8ECC8F568E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{293771B6-7C50-E53C-6411-2F8ECC8F568E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
